@@ -1,0 +1,5 @@
+maça,
+Uva,
+pera,
+banana,
+abacaxi
